@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, Nice to meet you. 👋
+### Hi, Nice to meet you!
 
 <!--
 **rei3matsuura/rei3matsuura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Blue Modern Gradient Technology LinkedIn Banner]()
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9aadf867-fc53-4fe9-aad1-482d0f2c51c9" />
 
 
 ### My Skills⚡

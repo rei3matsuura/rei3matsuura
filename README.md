@@ -1,47 +1,51 @@
 <!--
-**rei3matsuura/rei3matsuura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**rei3matsuura/rei3matsuura** profile README 💕
 -->
 
-### Hi, Nice to meet you!
+<div align="center">
 
-<!--
-**rei3matsuura/rei3matsuura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img width="100%" alt="header image" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,10&height=200&section=header&text=Welcome%20to%20Rei's%20GitHub!%20💗&fontSize=45&fontColor=ffffff&fontAlignY=35" /> -->
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/52001600-ae7e-4503-8b8f-929b3ef87fe4" />
 
-Here are some ideas to get you started:
+### 🩵 Hi, Nice to meet you! 💗  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9aadf867-fc53-4fe9-aad1-482d0f2c51c9" />
+### 🎀 My Skills
 
-
-### My Skills⚡
-
+<!-- 統一感あるパステル系テーマ -->
 ![](https://skillicons.dev/icons?i=python,pytorch,html,css,js,react,nextjs,tailwind,go,c,cpp,java,latex,docker,figma,gcp,github,gitlab&theme=light)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei3matsuura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei3matsuura&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rei3matsuura&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+### 💫 GitHub Stats ☁️
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei3matsuura&layout=compact&count_private=true&show_icons=true&theme=gruvbox" /> -->
+  <!-- <img alt="Top Langs" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rei3matsuura&theme=nord_bright&exclude=typescript" /> -->
+  <img alt="Top Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rei3matsuura&theme=nord_bright" />
+  <img alt="github stats" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rei3matsuura&theme=nord_bright" />
+</div>
+
+
+### 💍 Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rei3matsuura&theme=nord_bright)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rei3matsuura&theme=nord)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+
+<!-- ### 🩰 Trophies -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rei3matsuura&theme=rose_pine&margin-w=10&margin-h=10&column=6)](https://github-profile-trophy.vercel.app/?username=rei3matsuura) -->
+
+
+### 💎 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rei3matsuura&theme=rose_pine&hide_border=true&background=FFFFFF00&dates=8A8F8A)](https://git.io/streak-stats)
+
+
+
+---
+
+🫧 _Thanks for visiting!_ 🫧  
+💌 Feel free to connect anytime 💕
+
+</div>
